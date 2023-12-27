@@ -10,7 +10,7 @@
 
 
 ### Resultado:🎨
- - O resultado pode ser conferido aqui : **https://chuck-jokes.dev-araujo.repl.co/**
+ - O resultado pode ser conferido aqui : [**Chuck-jokes app**](https://chuck-joke.vercel.app/)
 
 ### Feito com 🔨
 - **React JS**
@@ -38,11 +38,6 @@ Por ser um projeto realizado com **ReactJS**, há a necessidade do **NodeJS**. C
 No terminal, clone o projeto:
 ```
 git clone 
-```
-
-Entre na pasta do projeto:
-```
-cd chuck-jokes/chuck_app
 ```
 
 Instale as dependências:
