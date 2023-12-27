@@ -3,7 +3,7 @@
 
 
 
-### Sobre::memo:
+### Sobre
  -  Uma aplicação com frases suspostamente proferidas pela lenda Chuck Norris, consumindo a **API** [*ChuckNorris.io*](https://api.chucknorris.io/)
     - É possível fazer uma busca sobre um tema específico;
     - Ou pesquisar de modo aleatório, seja por categorias pré-determinadas ou não.
